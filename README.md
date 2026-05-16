@@ -36,4 +36,4 @@
 
 ## 赞助
 >如果觉着代码对你有帮助，可以赞赏一下开发者
-![截图](/images/reward.png)
+![截图](/images/reward.jpg)
